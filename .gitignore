@@ -12,3 +12,10 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+gitignore file >open in /finder
+#Starter Content Anti-Push
+Content/StarterContent/*
+#ThirdPerson Pack Removal
+Content/Characters/*
+Content/LevelPrototyping/*
+Content/ThirdPerson*
